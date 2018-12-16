@@ -22,9 +22,12 @@ collections:
   articles:
     output: true
     permalink: "/articles/:path/"
-  instructions:
+  hardware_instructions:
     output: true
-    permalink: "/instructions/:path/"
+    permalink: "/instructions/hardware/:path/"
+  software_instructions:
+    output: true
+    permalink: "/instructions/software/:path/"    
 # tag_page_layout: tag_page
 # tag_page_dir: tag
 jekyll-archives:
