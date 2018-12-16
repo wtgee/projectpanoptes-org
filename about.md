@@ -1,8 +1,8 @@
 ---
 title: About
 date: 2017-11-01 03:00:00 +0000
-banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
+banner_image: "/uploads/2018/12/16/IMG_20160430_140820.jpg"
+heading: About Project PANOPTES
 sub_heading: Ora et Labora
 layout: landing-page
 textline: A multidisciplinary centre of experts who are essential to patient-oriented
