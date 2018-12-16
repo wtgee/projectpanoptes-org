@@ -1,0 +1,15 @@
+---
+label: instruction
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: main_body
+  label: Main body
+  config:
+    required: true
