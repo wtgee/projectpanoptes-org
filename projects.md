@@ -6,7 +6,7 @@ publish_date: 2017-11-01 03:00:00 +0000
 menu:
   navigation:
     identifier: _projects
-    weight: 4
+    weight: 3
     title: Articles
   footer:
     identifier: _projects
