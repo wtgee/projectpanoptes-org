@@ -5,8 +5,10 @@ banner_image: "/uploads/2018/12/16/IMG_20160430_140820.jpg"
 heading: About Project PANOPTES
 sub_heading: Ora et Labora
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: |-
+  ### Panoptic Astronomical Networked Observatories for a Public Transiting Exoplanets Survey
+
+  A citizen science project which aims to make it easy for anyone to build a low cost, robotic telescope which can be used to detect transiting exoplanets.
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 menu:
