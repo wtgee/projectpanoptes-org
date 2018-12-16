@@ -15,3 +15,8 @@ menu:
     weight: 3
 
 ---
+Below are some articles that are related to the project in general and are meant to be informative and educational.
+
+If you are looking for instructions on how to build a unit head over to the [Instructions](/instructions) area.
+
+If you have a question or want to see how some of the Teams are doing, check out our [Community Forum](https://forum.projectpanoptes.org).
