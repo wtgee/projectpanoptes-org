@@ -5,7 +5,7 @@ tags:
 - design
 - building
 date: 2018-12-16 20:29:34 +0000
-sub_heading: James Synge (Beta Builder, PAN006)
+sub_heading: 'Author: James Synge (Beta Builder, PAN006)'
 banner_image: "/uploads/2018/12/16/20180822_092718.jpg"
 slug: ''
 published: false
