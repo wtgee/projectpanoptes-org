@@ -10,10 +10,10 @@ sections:
   label: News
   create: all
   templates:
-  - posts
+  - post
 - type: directory
   path: _projects
-  label: Teams
+  label: Articles
   create: all
   match: "*"
   templates:
