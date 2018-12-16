@@ -21,15 +21,14 @@ We’ll start with the control box as it runs the show. We’re using a robust P
 
 ![](/uploads/2018/12/16/pan001_control_box_overview.png)
 
-###   
+### 
+
 Computer & PANOPTES Observatory Control System
 
-  
 The brains of a PANOPTES unit is a small computer running **POCS**, the [PANOPTES Observatory Control System](https://github.com/panoptes/POCS). The computer is an Intel NUC, a small form factor PC connected to the internet and via USB to the rest of the unit, enabling it to talk to the two DSLR cameras, the equatorial mount and the two Arduinos that provide it the ability to read data from sensors and to control switches.
 
 > Internet access is not strictly necessary, as the unit can collect and store images locally, simply choosing the best available field(s) each night. However, internet access enables remote monitoring, debugging and upgrading of the software, and of course prompt reporting of results.
 
-  
 The PC has one or more drives for storage of captured images, computed light curves, POCS and the operating system. Unlike a standard PC, this one does not have a monitor, keyboard or mouse attached, though sometimes that is done during servicing of the unit, such as debugging software or upgrading the firmware in the cameras.
 
 POCS manages the process of fetching a list of fields to observe (currently from a local file, eventually also from the PANOPTES server), capturing images of the highest priority fields visible in the night sky, computing the brightness of the stars in each image, and building light curves for stars across images, and finally uploading those results to the PANOPTES server. POCS also measures and records temperature, humidity, wind speed and more; these will enable analysis to determine if there are some sensor readings that indicate unfavorable conditions for observing (e.g. if the dew point is close to the ambient temperature, then the lenses are likely to fog over, or if it is too windy for the cameras to be stable).
@@ -40,8 +39,8 @@ Before capturing images, and throughout the night, POCS monitors the weather sen
 
 The control box has cables entering it for internet access and mains power (i.e. electricity: AC 120V/60Hz in much of the Americas, AC 240V/50Hz in most of the rest of the world). The components of a PANOPTES unit require DC electricity at 12V or lower, so the mains power is delivered to a Power Supply Unit (PSU) that performs the conversion. For conversion from AC 120V, we use a [PowerStream PST-SP12AL](https://www.powerstream.com/12V-backup.htm), which also acts as a battery backup for the system: it charges an attached 12V battery when mains power is available, but if that fails it immediately switches over to using the battery to continue supplying​ power to the rest of the system. The PSU also provides a signal indicating whether mains power is available; because a power outage could be of any duration, POCS uses the lack of mains power as a signal that it should park the mount.
 
-![](/uploads/2018/12/16/pan001_power_distribution.png)  
-  
+![](/uploads/2018/12/16/pan001_power_distribution.png)
+
 The PSU is connected to the Power Board, a custom built board which enables controlled and monitored distribution of power within the PANOPTES unit. The board has relays enabling it to individually​ switch on and off the power to the PC, weather station, equatorial mount, camera box and fan (used to cool the control box). In addition, it can measure the electric current used by the whole system, the equatorial mount, the camera box and the fan; collecting this and other sensor data over time will allow us to learn more about the system’s behavior.
 
 ##### 12V… Nominally
