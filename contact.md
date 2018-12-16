@@ -8,7 +8,7 @@ show_staff: true
 menu:
   navigation:
     identifier: _contact
-    weight: 1
+    weight: 7
     parent: _about
 
 ---
