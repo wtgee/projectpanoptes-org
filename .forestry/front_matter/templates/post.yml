@@ -40,5 +40,4 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/we-re-hiring-postdoc-needed-1.md
 - _posts/we-re-hiring-postdoc-needed.md
