@@ -11,3 +11,6 @@ fields:
 - type: text
   name: sub_heading
   label: Sub Heading
+- type: file
+  name: banner_image
+  label: Banner Image
