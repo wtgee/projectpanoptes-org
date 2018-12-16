@@ -15,7 +15,7 @@ menu:
     weight: 1
   navigation:
     identifier: _about
-    weight: 5
+    weight: 4
 
 ---
 A citizen science project which aims to make it easy for anyone to build a low cost, robotic telescope which can be used to detect transiting exoplanets.

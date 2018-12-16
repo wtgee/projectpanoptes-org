@@ -10,8 +10,9 @@ banner_image: ''
 slug: ''
 menu:
   navigation:
-    weight: 4
+    weight: 2
     title: FAQ
+    parent: _projects
 
 ---
 # Questions about the project
