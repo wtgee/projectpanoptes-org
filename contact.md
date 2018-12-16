@@ -11,13 +11,13 @@ menu:
     weight: 5
 
 ---
-## Contact Us
+# Contact Us
 
-### How can you participate?
+## How can you participate?
 
 Join our group, and participate in any way you wish, according to your area of expertise and/or taste. You can build a robotic camera yourself (and improve our design), explore new hardware solutions, write/improve software, come up with a new idea to use the robotic cameras, get other citizen scientists to join, analyze existing images, etc. How will you contribute to PANOPTES?
 
-### Looking for help?
+## Looking for help?
 
 ***
 
@@ -28,8 +28,8 @@ If you are interested in helping PANOPTES discover new world's by building your 
 
 If you aren't finding the answers you need then don't hesitate to fill out the form and the team will get back to you shortly!
 
-### Email Us
+## Email Us
 
- [info@projectpanoptes.org](mailto:info@projectpanoptes.org)
+[info@projectpanoptes.org](mailto:info@projectpanoptes.org)
 
 {% include address.html %}
