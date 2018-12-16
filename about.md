@@ -2,8 +2,8 @@
 title: About
 date: 2017-11-01 03:00:00 +0000
 banner_image: "/uploads/2018/12/16/IMG_20160430_140820.jpg"
-heading: About Project PANOPTES
-sub_heading: Ora et Labora
+heading: Project PANOPTES
+sub_heading: Discover New Worlds
 layout: landing-page
 textline: |-
   ### Panoptic Astronomical Networked Observatories for a Public Transiting Exoplanets Survey
