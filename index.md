@@ -1,11 +1,9 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/12/16/PAN001_sunset.png"
 layout: landing-page
-heading: Belkirk College
+heading: Project PANOPTES
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
 - description: Performing collaborative research and providing services to support
@@ -16,15 +14,16 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: |
-  Belkirk College of Engineering
+sub_heading: Discover New Worlds
+textline: |-
+  Panoptic Astronomical Networked Observatories for a Public Transiting Exoplanets Survey
 
-  Ora et Labora
+  A citizen science project which aims to make it easy for anyone to build a low cost, robotic telescope which can be used to detect transiting exoplanets.
 hero_button:
   text: Learn more
   href: "/about"
 show_news: true
+show_staff: false
 menu:
   navigation:
     identifier: _index
