@@ -3,7 +3,7 @@ title: PANOPTES Baseline Unit Description
 tags: []
 date: 2018-12-16 03:45:24 +0000
 sub_heading: Describes the main components that make up a PANOPTES unit.
-banner_image: "/uploads/2018/12/16/pan001_with_labelled_components.png"
+banner_image: ''
 slug: ''
 published: false
 
