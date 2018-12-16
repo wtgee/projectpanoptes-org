@@ -19,9 +19,9 @@ collections:
     permalink: "/about/:path/"
   posts:
     output: true
-  projects:
+  articles:
     output: true
-    permalink: "/projects/:path/"
+    permalink: "/articles/:path/"
   instructions:
     output: true
     permalink: "/instructions/:path/"
