@@ -7,10 +7,17 @@ sections:
 - type: heading
   label: Content
 - type: jekyll-posts
-  label: Posts
+  label: News
   create: all
   templates:
-  - post
+  - posts
+- type: directory
+  path: _projects
+  label: Teams
+  create: all
+  match: "*"
+  templates:
+  - project
 - type: jekyll-pages
   label: Pages
   create: all
@@ -24,13 +31,6 @@ sections:
   match: "*"
   templates:
   - person
-- type: directory
-  path: _projects
-  label: Projects
-  create: all
-  match: "*"
-  templates:
-  - project
 - type: document
   path: _data/information.yml
   label: Contact Information
