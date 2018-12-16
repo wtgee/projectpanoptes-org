@@ -18,14 +18,14 @@ services:
     kept as simple as possible as this makes the build process easier and means that
     the final product is more reliable.
   heading: Software / Hardware
-  icon: "/uploads/2018/12/16/20180822_092718.jpg"
+  icon: ''
 - heading: Community
   description: The PANOPTES community spans the world, from the founding members in
     Hawai'i to designers, builders and scientists in Europe, Australia, and North
     and South America. We're looking forward to our members in Africa and Asia! We
     use a variety of means to communicate, including a Google Group for announcements
     and a forum for discussions.
-  icon: "/uploads/2018/12/16/IMG_20160430_140820.jpg"
+  icon: ''
 sub_heading: Discover New Worlds
 textline: A citizen science project which aims to make it easy for anyone to build
   a low cost, robotic telescope that can be used to detect transiting exoplanets.
