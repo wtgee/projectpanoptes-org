@@ -31,5 +31,3 @@ If you aren't finding the answers you need then don't hesitate to fill out the f
 ## Email Us
 
 [info@projectpanoptes.org](mailto:info@projectpanoptes.org)
-
-{% include address.html %}
