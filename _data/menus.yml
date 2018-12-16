@@ -1,1 +1,6 @@
---- {}
+---
+navigation:
+- weight: 5
+  title: FAQ
+  parent: _projects
+  identifier: item_85kLucd

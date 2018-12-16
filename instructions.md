@@ -7,8 +7,9 @@ banner_image: "/uploads/2018/12/16/PAN001_sunset_banner.png"
 heading: Project PANOPTES
 menu:
   navigation:
-    weight: 1
+    weight: 2
     parent: _instructions
+    identifier: item_6edCGuV
 
 ---
 Instructions on how to build a PANOPTES unit.

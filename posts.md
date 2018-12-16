@@ -11,7 +11,7 @@ menu:
     title: News
   navigation:
     identifier: _posts
-    weight: 2
+    weight: 4
     title: News
 
 ---
