@@ -1,18 +1,15 @@
 ---
-title: Martin Marino
+title: PAN001
 date: 2017-11-14 11:08:34 +0000
 role:
 - advisor
 - board
-sub_heading: Advisor
-thumbnail: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
-email: martin@belkirkcollege.com
+sub_heading: The Original
+thumbnail: "/uploads/2018/12/16/PAN001.png"
+email: ''
 linkedin: ''
-layout: 'person'
+layout: person
+
 ---
-
-Martin Marino joined Belkirk in 2016 as an advisor and member of the Board.
-
-Martin has his master's degree in Finance and has started three successful engineering-related ventures since 2012, and currently advises the boards of United Technologies and Bechtel.
-
-Nulla vitae elit libero, a pharetra augue. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Maunaloa, HI, USA  
+The first baseline unit, located near the summit of Maunaloa on the Big Island of Hawai'i. This little champion just celebrated its 4th birthday with over 35,000 images taken!
