@@ -3,7 +3,7 @@ title: Camera Box
 tags: []
 date: 2018-12-16 21:24:20 +0000
 sub_heading: ''
-banner_image: ''
+banner_image: "/uploads/2018/12/16/camera_box_02.jpg"
 slug: ''
 published: false
 
