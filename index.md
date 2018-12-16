@@ -5,10 +5,13 @@ layout: landing-page
 heading: Project PANOPTES
 partners: []
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+- description: Due to the simplicity and low cost a PANOPTES "unit" can be built quickly
+    and easily by students or amateur scientists. PANOPTES is designed from the ground
+    up to be a citizen science project which will involve the public in all aspects
+    of the science, from data acquisition to reduction. An entire exoplanet finding
+    telescope can be built for about $5000 USD.
+  heading: Overview
+  icon: "/uploads/2018/12/16/pan-logo.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
