@@ -22,10 +22,10 @@ collections:
   articles:
     output: true
     permalink: "/articles/:path/"
-  hardware_instructions:
+  hardware:
     output: true
     permalink: "/instructions/hardware/:path/"
-  software_instructions:
+  software:
     output: true
     permalink: "/instructions/software/:path/"    
 # tag_page_layout: tag_page
