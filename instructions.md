@@ -8,7 +8,7 @@ heading: Project PANOPTES
 menu:
   navigation:
     weight: 1
-    parent: _projects
+    parent: _instructions
 
 ---
 Instructions on how to build a PANOPTES unit.
