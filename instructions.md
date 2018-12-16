@@ -14,7 +14,7 @@ services:
   icon: ''
 menu:
   navigation:
-    weight: 2
+    weight: 3
     parent: _instructions
     identifier: item_6edCGuV
 

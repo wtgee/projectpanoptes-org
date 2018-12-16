@@ -7,13 +7,13 @@ banner_image: "/uploads/2018/12/16/PAN001_sunset_banner.png"
 heading: Project PANOPTES
 sub_heading: Articles, explanations, and more.
 menu:
+  navigation:
+    identifier: _articles
+    weight: 4
   footer:
     identifier: _articles
     url: "/articles/"
     weight: 2
-  navigation:
-    identifier: _articles
-    weight: 3
 
 ---
 Below are some articles that are related to the project in general and are meant to be informative and educational.
