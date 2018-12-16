@@ -29,4 +29,5 @@ fields:
   default: ''
 pages:
 - _projects/panoptes-baseline-unit-description.md
+- _instructions/Hardware/camera-box.md
 - _projects/frequently-asked-questions.md
