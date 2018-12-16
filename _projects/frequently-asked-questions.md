@@ -10,7 +10,7 @@ banner_image: ''
 slug: ''
 menu:
   navigation:
-    weight: 5
+    weight: 4
     title: FAQ
 
 ---
