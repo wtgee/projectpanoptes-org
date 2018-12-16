@@ -12,7 +12,7 @@ sections:
   templates:
   - post
 - type: directory
-  path: _projects
+  path: _articles
   label: Articles
   create: all
   match: "*"
