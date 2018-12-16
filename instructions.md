@@ -12,4 +12,3 @@ menu:
     identifier: item_6edCGuV
 
 ---
-Instructions on how to build a PANOPTES unit.
