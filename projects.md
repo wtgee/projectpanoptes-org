@@ -7,6 +7,7 @@ menu:
   navigation:
     identifier: _projects
     weight: 4
+    title: Articles
   footer:
     identifier: _projects
     url: "/projects/"
