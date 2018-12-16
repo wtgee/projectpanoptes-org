@@ -10,7 +10,7 @@ banner_image: ''
 slug: ''
 menu:
   navigation:
-    weight: 2
+    weight: 5
     title: FAQ
     parent: _projects
     identifier: item_85kLucd
