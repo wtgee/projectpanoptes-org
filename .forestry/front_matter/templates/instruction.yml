@@ -8,8 +8,6 @@ fields:
   label: Title
   config:
     required: true
-- type: textarea
-  name: main_body
-  label: Main body
-  config:
-    required: true
+- type: text
+  name: sub_heading
+  label: Sub Heading
