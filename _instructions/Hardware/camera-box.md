@@ -3,7 +3,6 @@ title: Camera Box
 date: 2018-12-16 22:12:00 +0000
 sub_heading: Instructions for creating the camera box assembly.
 banner_image: "/uploads/2018/12/16/camera_box_02.jpg"
-published: false
 
 ---
 ## Introduction
