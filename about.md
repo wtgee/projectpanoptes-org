@@ -19,3 +19,7 @@ menu:
 
 ---
 A citizen science project which aims to make it easy for anyone to build a low cost, robotic telescope which can be used to detect transiting exoplanets.
+
+The PANOPTES community spans the world, from the founding members in Hawaii to designers, builders and scientists in Europe, Australia, and North and South America. We're looking forward to our members in Africa and Asia! We use a variety of means to communicate, including a [Google Group](https://projectpanoptes.org/contact.html) for announcements and a [forum for discussions](https://forum.projectpanoptes.org/).
+
+PANOPTES is also a platform. We encourage other groups to come up with projects which use PANOPTES data, hardware or software to address other scientific questions. For example, [The Huntsman Telephoto Array](https://www.facebook.com/AstroHuntsman/) is a project that is using the PANOPTES software to automate their observations.
