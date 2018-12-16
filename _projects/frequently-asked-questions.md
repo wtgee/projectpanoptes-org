@@ -1,6 +1,9 @@
 ---
 title: Frequently Asked Questions
-tags: []
+tags:
+- faq
+- questions
+- help
 date: 2018-12-16 21:06:14 +0000
 sub_heading: ''
 banner_image: ''
@@ -8,7 +11,7 @@ slug: ''
 published: false
 
 ---
-## Questions about the project
+# Questions about the project
 
 ### What is Project PANOPTES?
 
@@ -80,7 +83,7 @@ Project PANOPTES is part of the Universe of Learning, with connections to other 
 
 PANOPTES units will be able to help verify and validate the exoplanets discovered by TESS. In order for an exoplanet to be confirmed, a candidate exoplanet must be viewed three times in two different ways.
 
-## Questions about astronomy/astrophysics
+# Questions about astronomy/astrophysics
 
 ### What is an exoplanet?
 
@@ -101,7 +104,7 @@ Swarthmore College offers [a web page](http://astro.swarthmore.edu/transits.cgi
 * [https://exoplanetarchive.ipac.caltech.edu/](https://exoplanetarchive.ipac.caltech.edu/ "https://exoplanetarchive.ipac.caltech.edu/") (NASA exoplanet archive)
 * [https://exoplanets.nasa.gov/the-search-for-life/exoplanets-101/](https://exoplanets.nasa.gov/the-search-for-life/exoplanets-101/ "https://exoplanets.nasa.gov/the-search-for-life/exoplanets-101/")
 
-## Questions about participating
+# Questions about participating
 
 ### Is there a way to get involved without building a unit?
 
@@ -160,7 +163,7 @@ PANOPTES units are designed to be fairly easy to assemble. If you know how to op
 
 No. Anyone with moderate technical skills can build an PANOPTES unit, but there are also opportunities to participate which do not involve building a unit: working on software, helping with documentation, mentoring build groups, and assisting with data reduction are some examples of other ways to participate.
 
-## Questions about the equipment
+# Questions about the equipment
 
 ### Why does it cost so much/so little?
 
@@ -303,7 +306,7 @@ The purpose of using the cloud sensor is to enable detecting conditions that wou
 
 While cell phone cameras are improving dramatically, they fundamentally collect fewer photons than larger lens and sensor combinations such as DSLRs. This limits their scientific applicability. That said, we are watching developments in this technology.
 
-## Questions about the process/algorithm
+# Questions about the process/algorithm
 
 ### How many stars are in an image?
 
@@ -360,7 +363,7 @@ As above, the telescope automatically selects targets.
 
 For the purpose of Project PANOPTES, i.e. finding exoplanets, the observations from each camera (a sequence of images) are processed separately, producing light curves for each star of interest (a brightness measurement at the time of each image). The measurements from multiple cameras of a particular star can be combined; when they are for the same time, the values can be used to determine an average value and an error bar (i.e. we can fit a curve to the set of points).
 
-## Data
+# Questions about the Data
 
 ### How can I look at my own PANOPTES data, i.e. the images and the resulting light curves from my own PANOPTES unit?
 
@@ -372,7 +375,7 @@ Note that the local storage is typically limited to a few months or weeks of ima
 
 The images and light curves are stored based on the identifier of the PANOPTES unit, so if you know the identifier you can find the data. Again, contact the team for access.
 
-## List of Terms & Acronyms
+# List of Terms & Acronyms
 
 * [Arcminute](https://en.wikipedia.org/wiki/Minute_and_second_of_arc) - 1 60th of a Degree; abbreviated with a single quote or an apostrophe: **‘**. The Sun appears about 32 arcminutes across, or 0.53 degrees, and the moon is just slightly smaller in appearance, at 31 arcminutes across.
 * [Arcsecond](https://en.wikipedia.org/wiki/Minute_and_second_of_arc) - 1 60th of an Arcminute; abbreviated with a double quote or double apostrophe: **″**. For PAN001, the pixels are about 10 arcseconds (10″) across.
