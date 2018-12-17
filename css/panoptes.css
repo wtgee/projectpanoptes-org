@@ -11,7 +11,8 @@
 .service {
     width: 80%
 }
-
-.profile-photo, .post-header {
+ 
+.column-list-layout .post .post-header,
+.profile-photo {
     border-radius: 5%   
 }
