@@ -15,5 +15,6 @@ fields:
   name: banner_image
   label: Banner Image
 pages:
+- _instructions/hardware/weatherproofing.md
 - _instructions/hardware/control-box.md
 - _instructions/hardware/pier-mount-assembly.md
