@@ -5,8 +5,6 @@ sub_heading: Hardware
 banner_image: "/uploads/2018/12/17/pan001-snow.jpg"
 
 ---
-## Introduction
-
 The waterproofing is a process designed to shield the mount from the weather. As the unit sits outdoors, it is exposed to the conditions and the goal is prevent water entering the mount where it could damage the drive electronics and or the gear system. The following image shows one way to waterproof the mount. It consists of using thin aluminum sheets to protect various interfaces where water can enter the mount. The sheets are either screwed and/or silicon sealed to the mount as will be outlined.
 
 These instructions represent one way to waterproof your mount and you’re welcome to experiment and find other ways and/or modifications. You must take into consideration the conditions at the site you will install your unit at and make modifications and adjustments accordingly. The solution we offer may not be ideal for you.
