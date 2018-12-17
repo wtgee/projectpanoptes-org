@@ -29,3 +29,11 @@
 .profile-photo {
     border-radius: 5%   
 }
+
+.personal_url {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 0;
+    line-height: 2em;
+    font-size: 12px;
+}
