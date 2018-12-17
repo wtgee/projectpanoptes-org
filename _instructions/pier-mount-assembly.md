@@ -2,7 +2,7 @@
 title: Pier & Mount Assembly
 date: 2018-12-17 05:28:09 +0000
 sub_heading: ''
-banner_image: ''
+banner_image: "/uploads/2018/12/17/pier-kids.jpeg"
 
 ---
 ## Introduction
