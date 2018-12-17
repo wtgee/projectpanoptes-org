@@ -7,7 +7,7 @@ fields:
   name: title
   label: Unit ID
   description: The assigned unit id.
-- name: sub_heading
+- name: unit_name
   label: Name
   type: text
   hidden: false
