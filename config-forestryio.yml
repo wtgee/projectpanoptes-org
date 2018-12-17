@@ -193,12 +193,9 @@ collections:
   articles:
     output: true
     permalink: "/articles/:path/"
-  hardware:
+  instructions:
     output: true
-    permalink: "/instructions/hardware/:path/"
-  software:
-    output: true
-    permalink: "/instructions/software/:path/"
+    permalink: "/instructions/:path/"
 jekyll-archives:
   enabled: all
   layout: archive
