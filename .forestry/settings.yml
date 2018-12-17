@@ -4,6 +4,13 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: _people
+  label: People
+  create: all
+  match: "**/*"
+  templates:
+  - person
 - type: heading
   label: Content
 - type: jekyll-posts
@@ -25,19 +32,19 @@ sections:
   match: "**/*"
   templates:
   - instruction
+- type: directory
+  path: _teams
+  label: Teams
+  create: all
+  match: "*"
+  templates:
+  - person
 - type: jekyll-pages
   label: Pages
   create: all
   templates:
   - landing-page
   - default
-- type: directory
-  path: _people
-  label: Teams
-  create: all
-  match: "*"
-  templates:
-  - person
 - type: document
   path: _data/information.yml
   label: Contact Information
