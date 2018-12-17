@@ -40,14 +40,17 @@
 
 
 /*Partners*/
+.partners div {
+  text-align: -webkit-center;
+}
 .partners ul {
   display: inline-block;
 }
 
 .partners ul li {
-  max-width: 150px;
   margin: 0px 10%;
   float: left;
+  list-style: none;
 } 
 
 .partners ul li img {
