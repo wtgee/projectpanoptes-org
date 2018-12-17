@@ -12,6 +12,5 @@ textline: ''
 services: []
 show_news: false
 partners: []
-published: false
 
 ---
