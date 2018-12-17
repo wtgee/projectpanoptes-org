@@ -21,5 +21,3 @@ menu:
 Looking for [Build Instructions](/instructions)? Have a question or want to see how other [Teams](/teams) are doing? 
 
 Also be sure to check our  [Community Forum](https://forum.projectpanoptes.org) for even more!
-
-# Articles
