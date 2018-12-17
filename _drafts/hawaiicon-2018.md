@@ -2,5 +2,16 @@
 title: HawaiiCon 2018
 layout: post
 date: 2018-12-17 07:35:11 +0000
+sub_heading: ''
+tags: []
+banner_image: ''
+related_posts: []
 
 ---
+#   
+HawaiiCon 2018
+
+{{ publish_date }}  
+Science fiction or science fact? Panny and some of the PANOPTES team make a trip to HawaiiCon 2018 to talk exoplanets and astronomy.  
+  
+Say, who is that looking out from behind the screen?
