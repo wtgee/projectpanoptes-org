@@ -15,5 +15,19 @@
   <link rel="stylesheet" href="https://yui-s.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
   <!--<![endif]-->
   <link rel="stylesheet" href="{{ "/css/main.min.css" | absolute_url }}">
+  <!-- PANOPTES specific styles -->
+  <style>
+  .logo {
+    a {
+      width: 350px;
+      background-size: 350px;
+
+      @media #{$retina}  {
+          background-image: url('../img/logo-retina.png');
+          background-size: 350px;
+        }
+    }
+  }    
+  </style>
 </head>
 <body>
