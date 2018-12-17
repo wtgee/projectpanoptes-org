@@ -5,8 +5,6 @@ sub_heading: Hardware
 banner_image: "/uploads/2018/12/17/control-box.jpg"
 
 ---
-## Introduction
-
 The aim is to assemble the enclosure for the control electronics of PANOPTES, which should look like this when complete. A specific parts list as advised by the PANOPTES team can be found above including the tools needed for the build. These are the parts that have been determined to work well for the purposes of this project. However, modifications or swaps for other components are fine, but will not be supported by the PANOPTES team. Feedback on the parts/instructions is welcomed and encouraged.
 
 ![This shows all the parts that are required in order to build the computer control box. The instructions below need to be followed in conjunction to the technical drawings provided for each part.](/uploads/2018/12/17/control-box.jpg "Control box")
