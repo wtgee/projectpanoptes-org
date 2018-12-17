@@ -12,6 +12,6 @@
     width: 80%
 }
 
-.profile-photo, .post-header img {
+.profile-photo, .post-header {
     border-radius: 5%   
 }
