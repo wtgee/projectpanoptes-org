@@ -27,6 +27,9 @@ layout: default
 				  {% endfor %}
 				</ul>
 				{% endif %}
+				{% if page.url and page.url != "" %}
+					<a href="{{ page.url }}" title="{{ page.title }} URL" target="_blank">Webpage</a>
+				{% endif %}								
 			</div>
 			
             {{ content }}
