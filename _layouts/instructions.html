@@ -14,7 +14,7 @@ layout: default
 			Hardware
 			<div class="grid-layout">
 				<div class="container pure-g">
-					{% for instruction in site.hardware %}
+					{% for instruction in site.instructions %}
 					<div class="pure-u-1 pure-u-md-1-3">
 						<div class="card">
 							<div class="card-header">
@@ -33,28 +33,6 @@ layout: default
 					{% endfor %}
 				</div>
 			</div>
-			Software
-			<div class="grid-layout">
-				<div class="container pure-g">
-					{% for instruction in site.software %}
-					<div class="pure-u-1 pure-u-md-1-3">
-						<div class="card">
-							<div class="card-header">
-							{% if instruction.banner_image and project.banner_image != "" %}
-							<img src="{{ instruction.banner_image | absolute_url }}" alt="{{ instruction.title }}">
-							{% else %}
-								<img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ instruction.title }}">
-							{% endif %}
-							</div>
-							<div class="card-body">
-								<h3><a href="{{ project.url | absolute_url }}">{{ instruction.title }}</a></h3>
-								<p>{{ instruction.sub_heading | slice: 0, 80 }}</p>
-							</div>
-						</div>
-					</div>
-					{% endfor %}
-				</div>
-			</div>			
 		</div>
 	</div>
 </div>
