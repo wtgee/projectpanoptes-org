@@ -16,9 +16,9 @@ fields:
   name: thumbnail
   description: 'Square image, Max 500 pixels '
 - name: role
-  label: Departments
+  label: Role
   type: list
-  hidden: true
+  hidden: false
   default: staff
   description: ''
 - name: email
