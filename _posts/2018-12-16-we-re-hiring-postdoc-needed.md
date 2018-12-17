@@ -1,7 +1,7 @@
 ---
 title: '"Eh, What''s Up Doc?" - We''re Hiring!'
 layout: post
-date: 2018-12-16 20:18:27 +0000
+date: 2018-12-09 20:18:27 +0000
 sub_heading: Data Reduction PostDoc Needed
 tags: []
 banner_image: ''
