@@ -1,0 +1,11 @@
+.logo {
+  a {
+    width: 350px;
+    background-size: 350px;
+
+    @media #{$retina}  {
+        background-image: url('../img/logo-retina.png');
+        background-size: 350px;
+      }
+  }
+}   
