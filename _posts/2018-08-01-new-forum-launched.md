@@ -10,4 +10,4 @@ related_posts: []
 ---
 We've started a new forum to talk about all things PANOPTES. Got a question? Building a unit? Have a great idea? Sign up and ask away!
 
-[Check out the Forum](https://forum.projectpanoptes.org)
+[Check out the Forum](https://forum.projectpanoptes.org).
