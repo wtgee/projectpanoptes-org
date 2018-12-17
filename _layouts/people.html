@@ -39,6 +39,7 @@ layout: default
 							<div class="card-body">
 								<h3><a href="{{ person.url | absolute_url }}">{{ person.title }}</a></h3>
 								<p>{{ person.sub_heading | slice: 0, 80 }}</p>
+								<p>{{ person.content | truncatewords: 30 }}</p>
 							</div>
 						</div>
 					</div>
