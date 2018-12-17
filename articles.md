@@ -15,7 +15,7 @@ menu:
   footer:
     identifier: _articles
     url: "/articles/"
-    weight: 2
+    weight: 4
 
 ---
 Looking for [Build Instructions](/instructions)? Have a question or want to see how other [Teams](/teams) are doing? 

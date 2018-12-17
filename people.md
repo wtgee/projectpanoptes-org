@@ -9,7 +9,8 @@ sub_heading: The people that make PANOPTES go.
 menu:
   navigation:
     identifier: _people
-    weight: 4
+    weight: 2
+    parent: _about
   footer:
     identifier: _people
     url: "/people/"

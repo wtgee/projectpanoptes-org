@@ -9,10 +9,11 @@ sub_heading: Team members from around the world
 menu:
   navigation:
     identifier: _teams
-    weight: 4
+    weight: 1
+    parent: _about
   footer:
     identifier: _teams
     url: "/teams/"
-    weight: 2
+    weight: 3
 
 ---
