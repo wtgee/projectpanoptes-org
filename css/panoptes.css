@@ -11,13 +11,21 @@
 .service {
     width: 80%
 }
- 
-.column-list-layout .post .post-header,
-.profile-photo {
-    border-radius: 5%   
-}
 
+
+/*Center the Team photos*/
+.content img {
+	display: block;
+	margin: auto;
+}
+/*Bigger Team photos*/
 .grid-layout .card .card-header {
      max-height: 300px; 
      overflow: hidden; 
+}
+ 
+/*Slightly rounded people pics*/
+.column-list-layout .post .post-header,
+.profile-photo {
+    border-radius: 25%   
 }
