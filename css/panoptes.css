@@ -16,3 +16,8 @@
 .profile-photo {
     border-radius: 5%   
 }
+
+.grid-layout .card .card-header {
+     max-height: 300px; 
+     overflow: hidden; 
+}
