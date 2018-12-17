@@ -37,3 +37,8 @@
     line-height: 2em;
     font-size: 12px;
 }
+
+.partners ul li {
+  max-width: 150px;
+  margin-right: 100px;
+}
