@@ -4,7 +4,8 @@ banner_image: "/uploads/2018/12/16/PAN001_sunset_banner.png"
 layout: landing-page
 heading: Project PANOPTES
 partners:
-- "/uploads/2018/12/17/MacArth_primary_logo_stacked.jpg"
+- "/uploads/2018/12/17/MacArth_primary_logo_stacked.gif"
+- "/uploads/2018/12/17/Google_Cloud_Logo.png"
 - "/uploads/2018/12/17/200px-Jet_Propulsion_Laboratory_logo.svg.png"
 - "/uploads/2018/12/17/subaru_color1_300.png"
 services:
