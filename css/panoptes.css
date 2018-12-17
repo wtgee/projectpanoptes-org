@@ -40,5 +40,10 @@
 
 .partners ul li {
   max-width: 150px;
-  margin-right: 100px;
+  margin: 0px 10%;
+} 
+@media screen and (min-width: 480px) {
+   .partners ul li { 
+      margin: 0px 100px;
+   } 
 }
