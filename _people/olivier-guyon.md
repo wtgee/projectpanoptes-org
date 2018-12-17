@@ -5,7 +5,6 @@ date: 2018-12-17 06:14:48 +0000
 sub_heading: Project Founder
 thumbnail: "/uploads/2018/12/17/OlivierGuyon.png"
 email: ''
-linkedin: ''
 roles:
 - Founder
 - Member
