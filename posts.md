@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: News
 layout: posts
 sub_heading: ''
 description: Articles by PANOPTES
@@ -8,10 +8,8 @@ menu:
   footer:
     identifier: _posts
     weight: 3
-    title: News
   navigation:
     identifier: _posts
     weight: 2
-    title: News
 
 ---
