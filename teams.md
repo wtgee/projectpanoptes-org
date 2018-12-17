@@ -7,10 +7,6 @@ banner_image: "/uploads/2018/12/16/PAN001_sunset_banner.png"
 heading: PANOPTES Team
 sub_heading: Team members from around the world
 menu:
-  navigation:
-    identifier: _teams
-    weight: 2
-    parent: _about
   footer:
     identifier: _teams
     url: "/teams/"
