@@ -38,20 +38,23 @@
     font-size: 12px;
 }
 
+
+/*Partners*/
+.partners ul {
+  display: inline-block;
+}
+
 .partners ul li {
   max-width: 150px;
   margin: 0px 10%;
+  float: left;
 } 
-@media screen and (min-width: 480px) {
-   .partners ul li { 
-      margin: 0px 100px;
-   } 
-}
 
 .partners ul li img {
   max-width: 150px
 }
 
+/*News Posts*/
 .news-twitter .posts li {
   border-left: 1px solid darkgrey;
   text-indent: 10px;  
