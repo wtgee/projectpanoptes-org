@@ -3,7 +3,8 @@ title: PANOPTES on StarDate!
 layout: post
 date: 2018-10-02 22:12:19 +0000
 sub_heading: ''
-tags: []
+tags:
+- media
 banner_image: "/uploads/2018/12/17/stardate_logo.png"
 related_posts: []
 
