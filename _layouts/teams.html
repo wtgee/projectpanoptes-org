@@ -39,6 +39,7 @@ layout: default
 							<div class="card-body">
 								<h3><a href="{{ team.url | absolute_url }}">{{ team.title }}</a></h3>
 								<p>{{ team.sub_heading | slice: 0, 80 }}</p>
+								<p>{{ team.content | truncatewords: 30 }}</p>
 							</div>
 						</div>
 					</div>
