@@ -6,7 +6,7 @@ header:
     title: News
     identifier: news
   - url: /articles
-    title: Learn
+    title: Learn More
     identifier: learn
   - url: /faq
     title: FAQ
