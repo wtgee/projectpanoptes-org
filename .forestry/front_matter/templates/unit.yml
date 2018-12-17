@@ -5,12 +5,14 @@ is_partial: false
 fields:
 - type: text
   name: title
-  label: Name
+  label: Unit ID
+  description: The assigned unit id.
 - name: sub_heading
-  label: Sub Heading
+  label: Name
   type: text
   hidden: false
   default: ''
+  description: The name given to the unit by the team members.
 - name: host
   description: The hosting institution.
   label: Host
@@ -27,12 +29,6 @@ fields:
   label: Thumbnail
   name: thumbnail
   description: Square image, Max 500 pixels.
-- name: role
-  label: Role
-  type: list
-  hidden: true
-  default: unit
-  description: ''
 - name: email
   label: Email
   type: text
@@ -44,12 +40,19 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: status
+- type: select
+  name: status
+  config:
+    source:
+      type: simple
+    options:
+    - Just starting
+    - Building
+    - Upgrading
+    - Observing
+    - On vacation
   label: Status
-  description: Current status of the unit.
-  type: text
-  hidden: false
-  default: ''
+  description: Status of the unit.
 - name: layout
   label: Layout
   type: text
