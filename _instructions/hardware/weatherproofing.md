@@ -3,7 +3,6 @@ title: Weatherproofing
 date: 2018-12-17 05:28:52 +0000
 sub_heading: ''
 banner_image: ''
-published: false
 
 ---
 ## Introduction
