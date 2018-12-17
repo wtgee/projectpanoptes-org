@@ -10,4 +10,3 @@ menu:
   learn: {}
 
 ---
-[Hardware Description]()
