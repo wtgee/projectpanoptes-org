@@ -30,8 +30,8 @@ layout: default
 					<div class="pure-u-1 pure-u-md-1-3">
 						<div class="card">
 							<div class="card-header">
-							{% if team.banner_image and team.banner_image != "" %}
-							<img src="{{ team.banner_image | absolute_url }}" alt="{{ team.title }}">
+							{% if team.thumbnail and team.thumbnail != "" %}
+							<img src="{{ team.thumbnail | absolute_url }}" alt="{{ team.title }}">
 							{% else %}
 								<img src="{{ "/img/placeholder.png" | absolute_url }}" alt="{{ team.title }}">
 							{% endif %}
