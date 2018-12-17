@@ -8,14 +8,6 @@ heading: Project PANOPTES
 sub_heading: Articles, explanations, and more.
 textline: Below are some articles that are related to the project in general and are
   meant to be informative and educational.
-menu:
-  navigation:
-    identifier: _articles
-    weight: 4
-  footer:
-    identifier: _articles
-    url: "/articles/"
-    weight: 4
 
 ---
 Looking for [Build Instructions](/instructions)? Have a question or want to see how other [Teams](/teams) are doing? 

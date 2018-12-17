@@ -9,13 +9,6 @@ textline: Panoptic Astronomical Networked Observatories for a Public Transiting 
   Survey
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
-menu:
-  footer:
-    identifier: _about
-    weight: 1
-  navigation:
-    identifier: _about
-    weight: 6
 
 ---
 A citizen science project which aims to make it easy for anyone to build a low cost, robotic telescope which can be used to detect transiting exoplanets.

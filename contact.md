@@ -5,11 +5,6 @@ banner_image: "/uploads/2018/12/16/logo-bg-starry-banner.png"
 heading: ''
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
-menu:
-  navigation:
-    identifier: _contact
-    weight: 7
-    parent: _about
 
 ---
 # Contact Us
