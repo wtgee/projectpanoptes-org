@@ -19,7 +19,7 @@ Join our group, and participate in any way you wish, according to your area of e
 
 If you are interested in helping PANOPTES discover new world's by building your own unit, please reach out to us. If you have questions about the project or are just curious then a good place to start is our FAQ and the community forums.
 
-* [FAQ Page](https://panoptes.lifeyo.com/faq/ "Link: https://panoptes.lifeyo.com/faq/")
+* [FAQ Page](/faq "FAQ")
 * [Community Forum](https://forum.projectpanoptes.org/ "Link: https://forum.projectpanoptes.org")
 
 If you aren't finding the answers you need then don't hesitate to fill out the form and the team will get back to you shortly!
