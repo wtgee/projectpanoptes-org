@@ -36,3 +36,5 @@ fields:
   type: text
   hidden: true
   default: person
+pages:
+- _teams/pan001.md
