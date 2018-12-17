@@ -46,6 +46,9 @@
 				{% if page.host and page.host != "" %}
 					<h2>{{ page.host }} - {{ page.location }}</h2>
 				{% endif %}				
+				{% if page.status and page.status != "" %}
+					<h2>{{ page.status }}</h2>
+				{% endif %}				
 				</div>
 			</div>
 		</div>
