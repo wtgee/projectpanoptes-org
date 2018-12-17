@@ -1,0 +1,18 @@
+---
+label: Warning
+hide_body: false
+is_partial: true
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Title
+  description: The warning title
+- type: textarea
+  name: content
+  label: Content
+  description: The warning content
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown

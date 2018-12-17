@@ -27,3 +27,6 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- _articles/hardware-description.md
+- _articles/software-description.md
