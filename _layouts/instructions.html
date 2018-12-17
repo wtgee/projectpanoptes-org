@@ -11,7 +11,6 @@ layout: default
 <div class="container pure-g">
 	<div class="pure-u-1">
 		<div class="content">
-			Hardware
 			<div class="grid-layout">
 				<div class="container pure-g">
 					{% for instruction in site.instructions %}
@@ -27,6 +26,7 @@ layout: default
 							<div class="card-body">
 								<h3><a href="{{ instruction.url | absolute_url }}">{{ instruction.title }}</a></h3>
 								<p>{{ instruction.sub_heading | slice: 0, 80 }}</p>
+								<p>{{ instruction.content | truncate: 80 }}</p>
 							</div>
 						</div>
 					</div>

@@ -1,7 +1,7 @@
 ---
 title: Weatherproofing
 date: 2018-12-17 05:28:52 +0000
-sub_heading: ''
+sub_heading: Hardware
 banner_image: "/uploads/2018/12/17/pan001-snow.jpg"
 
 ---
