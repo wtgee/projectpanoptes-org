@@ -7,7 +7,7 @@ tags:
 date: 2018-12-16 21:06:14 +0000
 sub_heading: ''
 banner_image: ''
-slug: 'faq'
+slug: ''
 
 ---
 # Questions about the project
