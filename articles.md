@@ -18,6 +18,8 @@ menu:
     weight: 2
 
 ---
-Looking for [Build Instructions](/instructions)? Have a question or want to see how other [Teams](/teams) are doing? Check our  [Community Forum](https://forum.projectpanoptes.org) for even more!
+Looking for [Build Instructions](/instructions)? Have a question or want to see how other [Teams](/teams) are doing? 
+
+Also be sure to check our  [Community Forum](https://forum.projectpanoptes.org) for even more!
 
 # Articles
