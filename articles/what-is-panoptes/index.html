@@ -5,8 +5,8 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Articles - Project PANOPTES</title>
-  <meta name="description" content="Articles by Project PANOPTES">
+  <title>What is PANOPTES? - Project PANOPTES</title>
+  <meta name="description" content="PANOPTES is a citizen science project which aims to build low cost, robotic telescopes which can be used to detect transiting exoplanets.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" href="/img/favicon.png"/>
   <link rel="stylesheet" href="https://yui-s.yahooapis.com/pure/0.6.0/pure-min.css">
@@ -130,29 +130,17 @@
 
 
 
-	<header id="banner" style="background-image: url('/uploads/2018/12/16/PAN001_sunset_banner.png');">
+	<header id="banner" style="background-image: url('/uploads/2018/12/16/logo-bg-starry-banner.png');">
 		<div class="container pure-g">
 			<div class="pure-u-1 pure-u-md-1">
 				<header class="call-to-action">
-					<h1>Articles</h1>
-					
-						<h2>Articles, explanations, and more.</h2>
+					<h1>What is PANOPTES?</h1>
 					
 					
 				</div>
 			</header>
 		</div>
 	</header>
-	
-	<section class="main-message">
-		<div class="container pure-g">
-			<div class="pure-u-1 pure-u-md-1">
-				<div class="content content-narrow">
-					<p>Below are some articles that are related to the project in general and are meant to be informative and educational.</p>
-				</div>
-			</div>
-		</div>
-	</section>
 	
 
 
@@ -166,13 +154,22 @@
 <nav class="breadcrumbs">
 	<div class="container">
 		<div class="pure-u-1">
-        <div class="content ">
+        <div class="content content-narrow">
 					
 						<ul>
 							<li><a href="/">Home</a>&nbsp;<i class="fa fa-chevron-right"></i></li>
 							
 								
-									<li class="active">Articles</li>
+									
+									
+									
+									<li>
+										<a href="/articles/">Articles</a>&nbsp;<i class="fa fa-chevron-right"></i>
+									</li>
+								
+							
+								
+									<li class="active">What is PANOPTES?</li>
 								
 							
 						</ul>
@@ -183,74 +180,38 @@
 
 
 <div class="container pure-g">
-	<div class="pure-u-1">
-		<div class="content">
-			
-			
-			<section class="article">
-				<div class="container pure-g">
-					<div class="pure-u-1">
-						<div class="content content-narrow">
-							<p>Looking for <a href="/instructions">Build Instructions</a>? Have a question or want to see how other <a href="/teams">Teams</a> are doing?</p>
+    <div class="pure-u-1">
+        <div class="content content-narrow">
+            <h2 id="scientific-background-the-transit-technique">Scientific background: The transit technique</h2>
 
-<p>Also be sure to check our  <a href="https://forum.projectpanoptes.org">Community Forum</a> for even more!</p>
+<p>The transit technique is the most accessible way to discover exoplanets: when the planet passes in front of its star, the star appears to dim, as some of its light is blocked by the planet (stars and exoplanets are too small to see image the transit, so only to the total flux is measured). The dimming can be large (about one percent for a Jupiter-like planet), so it can be measured using relatively inexpensive equipment that amateur astronomers and schools can afford. By measuring how much and how often the star dims, the planet size and distance from the star can be estimated.</p>
 
-						</div>
-					</div>
-				</div>
-			</section>
-					
-			<hr width="80%" />
-			<div class="grid-layout">
-				<div class="container pure-g">
-				
-					
-					<div class="pure-u-1 pure-u-md-1-3">
-						<div class="card">
-							<div class="card-header">
-							
-							<img src="/uploads/2018/12/16/20180822_092718.jpg" alt="PANOPTES Baseline Unit Description">
-							
-							</div>
-							<div class="card-body">
-								<h3><a href="/articles/panoptes-baseline-unit-description/">PANOPTES Baseline Unit Description</a></h3>
-								<p>Author: James Synge (Beta Builder, PAN006)</p>
-							</div>
-						</div>
-					</div>
-					
-					<div class="pure-u-1 pure-u-md-1-3">
-						<div class="card">
-							<div class="card-header">
-							
-								<img src="/img/placeholder.png" alt="Frequently Asked Questions">
-							
-							</div>
-							<div class="card-body">
-								<h3><a href="/articles/frequently-asked-questions/">Frequently Asked Questions</a></h3>
-								<p></p>
-							</div>
-						</div>
-					</div>
-					
-					<div class="pure-u-1 pure-u-md-1-3">
-						<div class="card">
-							<div class="card-header">
-							
-							<img src="/uploads/2018/12/16/logo-bg-starry-banner.png" alt="What is PANOPTES?">
-							
-							</div>
-							<div class="card-body">
-								<h3><a href="/articles/what-is-panoptes/">What is PANOPTES?</a></h3>
-								<p></p>
-							</div>
-						</div>
-					</div>
-					
-				</div>
-			</div>
-		</div>
-	</div>
+<h2 id="challenges">Challenges</h2>
+
+<p>Discovering exoplanets by the transit method is however still challenging because the odds are small to observe such an event when looking at a single star: the planet orbit alignment has to be right (for most planet/star systems, the planet never passes in front of the star, but goes “around” it), and the transit does not last very long and may not repeat very frequently. The key to beat the small odds is to monitor, as continuously as possible, a very large number of stars.</p>
+
+<h2 id="why-use-very-small-cameras">Why use very small cameras?</h2>
+
+<p>Most telescopes used by professional astronomers are very inefficient for discovering planets with the transit method, because their field of view is very small. Astronomers have built wide field telescopes to address this challenge, such as the Kepler space telescope. But even Kepler’s wide field camera only covers 0.28 percent of the sky. Several other projects are using smaller telescopes with wider field of view (for example HATnet, WASP), therefore covering more sky area at a reduced precision to identify a large number of giant planets. This later approach is the one we adopt, because low-cost hardware available to amateur astronomers and schools is very well suited for this project.</p>
+
+<h2 id="scientific-coordination">Scientific coordination</h2>
+
+<p>Efficient discovery of exoplanet transit requires the multiple robotic cameras to coordinate observations (monitoring a few fields as continuously as possible). Data analysis also needs to be coordinated, as recovery of exoplanet signals comes from putting together measurements taken over a long time span from different geographical locations. We coordinate observations between sites, coordinate data storage and analysis, as well as future development (for example, where to install new cameras? which new fields should be monitored?)</p>
+
+<h2 id="what-do-we-mean-by-small-camera">What do we mean by “small camera”?</h2>
+
+<p>Since our goal is to cover a large fraction of the sky, the systems use camera lenses. The lenses can be mounted on a DSLR camera or a CCD, and can be stationary or tracking.</p>
+
+<p>We are establishing a baseline PANOPTES unit, aimed at being easy to assemble and operate, yet reliable and low-cost. We use low-cost DSLR camera + lenses. Experienced amateur astronomers will also further develop hardware, with higher performance PANOPTES units being built by some members.</p>
+
+<h2 id="to-learn-more">To learn more…</h2>
+
+<p>A brief history of the project can be found on <a href="https://projectpanoptes.org/history.html">this page</a>, and many frequently asked questions are addressed on our <a href="https://projectpanoptes.org/faq.html">FAQ page</a>.</p>
+
+<p><strong>To join PANOPTES, please</strong> <a href="https://projectpanoptes.org/contact.html"><strong>contact us</strong></a></p>
+
+        </div>
+    </div>
 </div>
 
 
