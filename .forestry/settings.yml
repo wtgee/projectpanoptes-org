@@ -31,7 +31,7 @@ sections:
   create: all
   match: "*"
   templates:
-  - person
+  - unit
 - type: directory
   path: _people
   label: People
