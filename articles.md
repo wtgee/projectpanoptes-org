@@ -18,6 +18,10 @@ menu:
     weight: 2
 
 ---
-If you are looking for instructions on how to build a unit head over to the [Instructions](/instructions) area.
+Looking for [Build Instructions](/instructions)?
 
-If you have a question or want to see how some of the Teams are doing, check out our [Community Forum](https://forum.projectpanoptes.org).
+Have a question or want to see how other [Teams](/teams) are doing?
+
+Check our  [Community Forum](https://forum.projectpanoptes.org)!
+
+# Articles
