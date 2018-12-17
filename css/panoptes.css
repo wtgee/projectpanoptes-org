@@ -48,6 +48,10 @@
    } 
 }
 
+.partners ul li img {
+  max-width: 150px
+}
+
 .news-twitter .posts li {
   border-left: 1px solid darkgrey;
   text-indent: 10px;  
