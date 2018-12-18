@@ -20,6 +20,8 @@ services:
     page: about.md
     label: What is PANOPTES?
     href: "/about"
+  thumbnail:
+    image: "/uploads/2018/12/16/pan-logo.png"
 - description: The philosophy behind the PANOPTES hardware and software design is
     to use as many commercial off the shelf (COTS) parts as possible as these are
     generally inexpensive and easily acquired. In addition, the PANOPTES design is
@@ -31,6 +33,9 @@ services:
     page: instructions.md
     label: Get Building!
     href: "/instructions/"
+  thumbnail:
+    image: "/uploads/2018/12/16/20180822_092718.jpg"
+    border: true
 - heading: Community
   description: The PANOPTES community spans the world, from the founding members in
     Hawai'i to designers, builders and scientists in Europe, Australia, and North
@@ -42,6 +47,9 @@ services:
     page: contact.md
     label: Join Us!
     href: "/contact/"
+  thumbnail:
+    image: "/uploads/2018/12/18/IMG_20160604_132450 (1).jpg"
+    border: true
 sub_heading: Discover New Worlds
 textline: A citizen science project that aims to make it easy for anyone to build
   a low cost, robotic telescope that can be used to detect transiting exoplanets.
