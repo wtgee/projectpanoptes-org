@@ -52,6 +52,14 @@ aside {
 
 
 /*Partners*/
+.partners {
+  margin: 0px 200px;
+}
+
+.partners h2 {
+  margin-bottom: 0px;
+}
+
 .partners div {
   text-align: -webkit-center;
 }
@@ -82,4 +90,9 @@ aside {
   border-left: 1px solid darkgrey;
   background-color: antiquewhite;
   padding: 1em;
+}
+
+/*Footer */
+.site-footer {
+  padding-top: 25px;
 }
