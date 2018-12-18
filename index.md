@@ -15,7 +15,7 @@ services:
     of the science, from data acquisition to reduction. An entire exoplanet finding
     telescope can be built for about $5000 USD.
   heading: Overview
-  icon: ''
+  icon: "/uploads/2018/12/16/pan-logo.png"
   link:
     page: about.md
     label: What is PANOPTES?
