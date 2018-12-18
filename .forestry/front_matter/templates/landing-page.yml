@@ -61,6 +61,10 @@ fields:
     type: file
     hidden: false
     default: ''
+  - type: include
+    name: goto
+    label: Goto
+    description: A goto button for more information.
   hidden: false
   default: ''
 - type: boolean
