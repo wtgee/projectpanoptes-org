@@ -20,6 +20,7 @@ aside {
       }
 }   
 
+/* Services */
 .service {
     width: 80%
 }
@@ -28,8 +29,13 @@ aside {
   width: 80%;
 }
 
+.services .service-icon img {
+    max-width: 275px;
+    height: 200px;
+}
 
-/*Center the Team photos*/
+
+/* Teams */
 .content img {
 	display: block;
 	margin: auto;
@@ -40,7 +46,7 @@ aside {
      overflow: hidden; 
 }
  
-/*Slightly rounded people pics*/
+/* People */
 .column-list-layout .post .post-header,
 .profile-photo {
     border-radius: 5%   
@@ -54,8 +60,7 @@ aside {
     font-size: 12px;
 }
 
-
-/*Partners*/
+/* Partners */
 .partners {
   margin: 0px 200px;
 }
@@ -89,14 +94,14 @@ aside {
   border: 1px solid lightgrey;  
 }
 
-/*News Posts*/
+/* News Posts */
 .news-item {
   border-left: 1px solid darkgrey;
   background-color: antiquewhite;
   padding: 1em;
 }
 
-/*Footer */
+/* Footer */
 .site-footer {
   marging-top: 10px;
   padding-top: 25px;
