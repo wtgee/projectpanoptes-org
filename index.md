@@ -41,6 +41,7 @@ services:
   link:
     page: contact.md
     label: Join Us!
+    href: "/contact/"
 sub_heading: Discover New Worlds
 textline: A citizen science project that aims to make it easy for anyone to build
   a low cost, robotic telescope that can be used to detect transiting exoplanets.
