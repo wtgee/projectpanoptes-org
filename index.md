@@ -16,6 +16,9 @@ services:
     telescope can be built for about $5000 USD.
   heading: Overview
   icon: ''
+  link:
+    page: about.md
+    label: What is PANOPTES?
 - description: The philosophy behind the PANOPTES hardware and software design is
     to use as many commercial off the shelf (COTS) parts as possible as these are
     generally inexpensive and easily acquired. In addition, the PANOPTES design is
@@ -23,6 +26,9 @@ services:
     the final product is more reliable.
   heading: Software / Hardware
   icon: ''
+  link:
+    page: instructions.md
+    label: Get Building!
 - heading: Community
   description: The PANOPTES community spans the world, from the founding members in
     Hawai'i to designers, builders and scientists in Europe, Australia, and North
@@ -30,8 +36,11 @@ services:
     use a variety of means to communicate, including a Google Group for announcements
     and a forum for discussions.
   icon: ''
+  link:
+    page: contact.md
+    label: Join Us!
 sub_heading: Discover New Worlds
-textline: A citizen science project which aims to make it easy for anyone to build
+textline: A citizen science project that aims to make it easy for anyone to build
   a low cost, robotic telescope that can be used to detect transiting exoplanets.
 hero_button:
   text: Learn more
