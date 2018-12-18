@@ -94,5 +94,6 @@ aside {
 
 /*Footer */
 .site-footer {
+  marging-top: 10px;
   padding-top: 25px;
 }
