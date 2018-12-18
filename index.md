@@ -26,7 +26,7 @@ services:
     kept as simple as possible as this makes the build process easier and means that
     the final product is more reliable.
   heading: Software / Hardware
-  icon: ''
+  icon: "/uploads/2018/12/16/20180822_092718.jpg"
   link:
     page: instructions.md
     label: Get Building!
@@ -37,7 +37,7 @@ services:
     and South America. We're looking forward to our members in Africa and Asia! We
     use a variety of means to communicate, including a Google Group for announcements
     and a forum for discussions.
-  icon: ''
+  icon: "/uploads/2018/12/18/IMG_20160604_132450 (1).jpg"
   link:
     page: contact.md
     label: Join Us!
