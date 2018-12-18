@@ -56,6 +56,26 @@ fields:
     type: text
     hidden: false
     default: ''
+  - type: field_group
+    label: Link
+    name: link
+    description: A button link for more information.
+    fields:
+    - type: text
+      name: label
+      label: Label
+      description: Label for the button
+      config:
+        required: true
+    - type: select
+      config:
+        source:
+          type: pages
+        required: true
+      label: Page
+      name: page
+      description: The page to link to.
+      default: _people/olivier-guyon.md
   - name: icon
     label: Icon
     type: file
