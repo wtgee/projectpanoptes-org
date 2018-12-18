@@ -69,6 +69,14 @@ aside {
   max-width: 150px
 }
 
+.meta ul .role {
+  background-color: aliceblue;
+  padding: 2px 8px;
+  font-weight: 600;
+  border-radius: 7px;
+  border: 1px solid lightgrey;  
+}
+
 /*News Posts*/
 .news-twitter .posts li {
   border-left: 1px solid darkgrey;
