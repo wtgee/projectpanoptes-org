@@ -11,6 +11,13 @@
                   <div class="service-icon"><img src="{{ item.icon | absolute_url }}" alt=""></div>
                   <h2>{{ item.heading }}</h2>
                   <p>{{ item.description }}</p>
+
+                  <div>
+                    <a href="{{ item.link.page | absolute_url }}" class="pure-button button-success button-xlarge" title="{{ item.link.label }}">
+                      {{ item.link.label }}&nbsp;<i class="fa fa-chevron-right"></i>
+                    </a>
+                  </div>
+
               </div>
         </div>
         {% endfor %}
