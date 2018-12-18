@@ -19,6 +19,7 @@ services:
   link:
     page: about.md
     label: What is PANOPTES?
+    href: "/about"
 - description: The philosophy behind the PANOPTES hardware and software design is
     to use as many commercial off the shelf (COTS) parts as possible as these are
     generally inexpensive and easily acquired. In addition, the PANOPTES design is
