@@ -32,6 +32,11 @@ aside {
 .services .service-icon img {
     max-width: 275px;
     height: 200px;
+    border-radius: 10px;
+}
+
+.services .service-icon img.bordered {
+  border: 1px solid;
 }
 
 
