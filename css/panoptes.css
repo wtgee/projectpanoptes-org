@@ -6,6 +6,10 @@ aside {
     color: #fff;
 }
 
+.breadcrumbs {
+  margin-bottom: 10px;
+}
+
 .logo a {
     width: 350px;
     background-size: 350px;
