@@ -30,6 +30,7 @@ services:
   link:
     page: instructions.md
     label: Get Building!
+    href: "/instructions/"
 - heading: Community
   description: The PANOPTES community spans the world, from the founding members in
     Hawai'i to designers, builders and scientists in Europe, Australia, and North
