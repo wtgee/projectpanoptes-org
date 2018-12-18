@@ -30,6 +30,7 @@ aside {
 }
 
 .services .service-icon img {
+    width: inherit;
     max-width: 275px;
     height: 200px;
     border-radius: 10px;
@@ -102,8 +103,9 @@ aside {
 /* News Posts */
 .news-item {
   border-left: 1px solid darkgrey;
-  background-color: antiquewhite;
-  padding: 1em;
+  background-color: lightgrey;
+  padding: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 /* Footer */
