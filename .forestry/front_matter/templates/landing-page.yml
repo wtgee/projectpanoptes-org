@@ -64,18 +64,13 @@ fields:
     - type: text
       name: label
       label: Label
-      description: Label for the button
+      description: Label for the button.
       config:
         required: true
-    - type: select
-      config:
-        source:
-          type: pages
-        required: true
-      label: Page
-      name: page
-      description: The page to link to.
-      default: _people/olivier-guyon.md
+    - type: text
+      name: href
+      label: Link
+      description: Where the button goes.
   - name: icon
     label: Icon
     type: file
