@@ -80,6 +80,6 @@ aside {
 /*News Posts*/
 .news-item {
   border-left: 1px solid darkgrey;
-  text-indent: 10px;  
   background-color: antiquewhite;
+  padding: 1em;
 }
