@@ -24,6 +24,10 @@ aside {
     width: 80%
 }
 
+.service .button-link a {
+  width: 80%;
+}
+
 
 /*Center the Team photos*/
 .content img {
@@ -94,5 +98,6 @@ aside {
 
 /*Footer */
 .site-footer {
+  marging-top: 10px;
   padding-top: 25px;
 }
