@@ -71,15 +71,19 @@ fields:
       name: href
       label: Link
       description: Where the button goes.
-  - name: icon
-    label: Icon
-    type: file
-    hidden: false
-    default: ''
-  - type: include
-    name: goto
-    label: Goto
-    description: A goto button for more information.
+  - type: field_group
+    name: thumbnail
+    label: Thumbnail
+    fields:
+    - type: file
+      label: Image
+      name: image
+      description: Thumbnail to show above service.
+    - type: boolean
+      name: border
+      label: Border
+      description: If thumbnail should include a border.
+    description: Thumbnail for service.
   hidden: false
   default: ''
 - type: boolean
