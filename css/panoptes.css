@@ -24,6 +24,10 @@ aside {
     width: 80%
 }
 
+.service .button-link a {
+  width: 80%;
+}
+
 
 /*Center the Team photos*/
 .content img {
