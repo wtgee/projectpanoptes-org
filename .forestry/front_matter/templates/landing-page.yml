@@ -57,6 +57,19 @@ fields:
     hidden: false
     default: ''
   - type: field_group
+    name: thumbnail
+    label: Thumbnail
+    fields:
+    - type: file
+      label: Image
+      name: image
+      description: Thumbnail to show above service.
+    - type: boolean
+      name: border
+      label: Border
+      description: If thumbnail should include a border.
+    description: Thumbnail for service.
+  - type: field_group
     label: Link
     name: link
     description: A button link for more information.
@@ -71,19 +84,6 @@ fields:
       name: href
       label: Link
       description: Where the button goes.
-  - type: field_group
-    name: thumbnail
-    label: Thumbnail
-    fields:
-    - type: file
-      label: Image
-      name: image
-      description: Thumbnail to show above service.
-    - type: boolean
-      name: border
-      label: Border
-      description: If thumbnail should include a border.
-    description: Thumbnail for service.
   hidden: false
   default: ''
 - type: boolean
