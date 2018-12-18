@@ -14,18 +14,10 @@ layout: default
 				{% if page.roles.size > 0 %}
 				<span class="meta-separator">&bull;</span>
 				<ul class="tags-list">
-				  <li class="inline tag_list_item">
-								Roles:
-							</li>
-							{% for role in page.roles %}
-				  <li class="inline tag_list_item">
-				    {{ role }}
-				    {% if forloop.last == true %}{% else %}
-				      <span>,</span>
-				    {% endif %}
-				  </li>
+				  <li class="inline tag_list_item role"> {{ role }} </li>
 				  {% endfor %}
 				</ul>
+				<br />
 				{% endif %}
 				{% if page.personal_url and page.personal_url != "" %}
 					<br />
